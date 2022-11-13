@@ -19,3 +19,10 @@ npm install styled-components
 ```bash
 npx gitignore node
 ```
+
+
+## Estrutura projeto
+
+- `_app.js`: Carrega o setup base do projeto
+    - Também estão os **Providers** de informação do projeto
+    - CSSReset
